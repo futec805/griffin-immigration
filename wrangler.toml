@@ -1,6 +1,0 @@
-name = "griffin-immigration"
-compatibility_date = "2025-06-25"
-pages_build_output_dir = ".svelte-kit/cloudflare"
-
-# Your custom domain goes here — add after deploying
-# routes = [{ pattern = "yourdomain.com", custom_domain = true }]
